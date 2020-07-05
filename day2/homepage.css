@@ -1,0 +1,116 @@
+.imageContainer{
+    background: url('http://contactphysicaltherapy.com/wp-content/uploads/2015/12/iStock_000076356417_Small.jpg');
+    border-style: double;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body{
+        margin:auto;
+    }
+
+#logo{
+    text-align: center;
+    font-weight: 1000;
+    color: rgb(221, 190, 199);
+    font-size: 90px;
+    background-color: rgb(151, 18, 36);
+    height: 150px;
+    line-height: 130px;
+    width: 150px;
+    margin:auto;
+    border-radius:100%;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.heading{
+    text-align: center;
+    color: rgb(171, 248, 212);
+    font-size: 36px;
+}
+
+.locationSelector{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 90px;
+}
+
+.locationDropdown{
+    border: none;
+    height:50px;
+    width:250px;
+    font-size: 20px;
+}
+
+.restaurentsinput{
+    border: none;
+    height:50px;
+    width:350px;
+    font-size: 20px;
+    border-radius: 0%;
+}
+
+
+.componentheading{
+    text-align: left;
+    color:#192f60;
+    font-size:18px;
+    font-weight: bold;
+
+}
+
+.componentsubheading{
+    text-align: left;
+    color:gray;
+    font-size:14px;
+    
+}
+
+.quickSearchContainer{
+    margin-left:30px;
+    margin-top:50px;
+}
+
+.quicksearchheading{
+    text-align: left;
+    color: #192f60;
+    font-size:40px;
+    line-height: 1.0;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 50px;
+    width: 24px;
+}
+
+.quickSearchSubHeading{
+    text-align: left;
+    color: gray;
+    line-height: .08;
+    letter-spacing: normal;
+    font-size:20px;
+    font-weight: normal;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top: 20px;
+}
+
+
+.tileContainer{
+    box-shadow: 0 3px 6px black;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    width:350px;
+    height: 150px;
+    background-color: white;
+    display: inline-block;
+}
+
+.tileComponent1{ 
+    float: left;
+    width:50%;
+}
+.tileComponent2{
+    float: left;
+    width:50%;
+    margin-top: 20px;
+}
